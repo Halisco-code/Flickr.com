@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fnav{
+    background-color:rgba(0, 0, 0, 0.3);
+    position: fixed;
+    z-index: 99;
+}
+.ya{
+    margin-left: 190px;
+    display: flex;
+    gap: 20px;
+}
+.ban{
+    color: white;
+    padding: 2px;
+    font-weight: 500;
+}
+.bag{
+    background-color: white;
+    border-radius: 5px;
+    padding: 2px;
+    color: rgba(0, 0, 0, 1.5);
+    font-weight: 500;
+    height: 30px;
+}
+.mag{
+    width: 100%;
+    margin: 0px 15px;
+}
+.pic{
+    height: 600px;
+    width: 100%;
+    height: 100vh;
+    margin-right: 10px;
+}
+.ton{
+    font-weight: 500;
+}
+.card{
+    position: absolute;
+    margin: -450px 410px;
+    background-color: transparent;
+}
+.ban{
+    color: white;
+}
+.zan{
+    color: white;
+    align-self: center;
+}
+.ref{
+    background-color: white;
+    padding: 20px 30px;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+.jam{
+    position: fixed;
+    bottom: 0;
+    padding: 6.5px;
+    display: flex;
+    gap: 32px;
+    background-color: black;
+}
+.jig{
+    font-weight: 500;
+    font-size: 13px;
+    margin: 2px 5px;
+}
+.well{
+    background-image: url(images/bgimages/033120190455-by-Henry.2edde7a9.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    top: 0px;
+}
+.ell{
+    background-image: url(images/bgimages/033120190455-by-Henry.2edde7a9.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 150vh;
+    top: 0px;
+}
+.bell{
+    margin: 80px 550px;
+}
+.wos{
+    display: flex;
+    margin: -110px 550px;
+    z-index: 99;
+    gap: 50px;
+}
+.wav{
+    display: flex;
+    margin: 0px 0px;
+    gap: 20px;
+    
+}
+.rap{
+    margin:0px 135px;
+}
+.git{
+    padding: 50px 0px;
+}
+.fix{
+    font-size: 13px;
+}
